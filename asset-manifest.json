@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Cybrog/static/css/main.3d283c44.css",
+    "main.css": "/Cybrog/static/css/main.67c17bcd.css",
     "main.js": "/Cybrog/static/js/main.51e448eb.js",
     "static/media/banner-bg.jpg": "/Cybrog/static/media/banner-bg.f41cb78948354a14694e.jpg",
     "static/media/popular-05.jpg": "/Cybrog/static/media/popular-05.fb754b91636cbce130d6.jpg",
@@ -12,11 +12,11 @@
     "static/media/popular-07.jpg": "/Cybrog/static/media/popular-07.bbef6817bf6ac3dcdb80.jpg",
     "static/media/popular-03.jpg": "/Cybrog/static/media/popular-03.1c8955f99df2b3b94391.jpg",
     "index.html": "/Cybrog/index.html",
-    "main.3d283c44.css.map": "/Cybrog/static/css/main.3d283c44.css.map",
+    "main.67c17bcd.css.map": "/Cybrog/static/css/main.67c17bcd.css.map",
     "main.51e448eb.js.map": "/Cybrog/static/js/main.51e448eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d283c44.css",
+    "static/css/main.67c17bcd.css",
     "static/js/main.51e448eb.js"
   ]
 }
