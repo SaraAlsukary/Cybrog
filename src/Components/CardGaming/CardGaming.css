@@ -9,6 +9,14 @@
     padding: calc(var(--padding-primary)/2) 0;
 }
 
+@media (max-width:767px) {
+    .gaming-library-card ul {
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+    }
+}
+
 .gaming-library-card h4 {
     font-size: 1rem;
 }
